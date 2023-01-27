@@ -14,7 +14,7 @@ public class Operaciones {
 	 * @param valor1 Primer_numero_introducido
 	 * @param valor2 Segundo_numero_introducido
 	 * @param numero
-	 * @return numero Devuelve la suma de los valores
+	 * @return numero Devuelve la suma de los valores 
 	 */
 
 	public int sumar(int valor1, int valor2) {
