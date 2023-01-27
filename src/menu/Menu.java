@@ -29,10 +29,10 @@ public class Menu {
 	}
 
 	/**
-	 * Escribir operacion deseada
+	 *  menu menuopciones
 	 * 
-	 * @param ret
-	 * @return ret
+	 * @param ret pide las operaciones 
+	 * @return ret devuelve las operaciones
 	 */
 
 	public String menuOpciones() {
@@ -46,10 +46,11 @@ public class Menu {
 	}
 
 	/**
-	 * @param ret
-	 * @param String respuesta
+	 * menu repetir
+	 * @param ret 
+	 * @param respuesta guarda lo que desea el usuario
 	 * 
-	 * @return ret
+	 * @return ret devuelve la operacion
 	 */
 	public boolean repetir() {
 		boolean ret = false;
