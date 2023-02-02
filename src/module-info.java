@@ -6,4 +6,5 @@
  *
  */
 module CalcuJavaDoc {
+	requires java.logging;
 }
